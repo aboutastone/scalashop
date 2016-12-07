@@ -1,0 +1,6 @@
+runMain scalashop.HorizontalBoxBlurRunner
+submit aboutastone@gmail.com 19jn6IQKOcxMo0QH
+runMain scalashop.ScalaShop
+submit aboutastone@gmail.com vEbZichtxAzS9duk
+unMain scalashop.ScalaShop
+runMain scalashop.ScalaShop
